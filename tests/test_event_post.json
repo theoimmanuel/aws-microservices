@@ -1,0 +1,8 @@
+{
+  "requestContext": {
+    "http": {
+      "method": "POST"
+    }
+  },
+  "body": "{\"loan_id\": \"LN-2026-001\", \"item_name\": \"Raspberry Pi 5 Kit\", \"borrower_name\": \"Theo Sanyoto\"}"
+}
