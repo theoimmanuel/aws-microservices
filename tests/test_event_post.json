@@ -1,8 +1,12 @@
 {
+  "version": "2.0",
+  "rawPath": "/loans",
   "requestContext": {
     "http": {
-      "method": "POST"
+      "method": "POST",
+      "path": "/loans"
     }
   },
-  "body": "{\"loan_id\": \"LN-2026-001\", \"item_name\": \"Raspberry Pi 5 Kit\", \"borrower_name\": \"Theo Sanyoto\"}"
+  "isBase64Encoded": false,
+  "body": "{\"loan_id\": \"LN-2026-001\", \"item_name\": \"Raspberry Pi 5 Kit\", \"borrower_name\": \"Theo Immanuel\"}"
 }
